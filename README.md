@@ -2,7 +2,7 @@
 
 <h3>Electro Shoppe</h3>
 
-A prototype of a web store for selling electronic items.
+A prototype of a web store for buying electronic items.
 
 Watch Demonstration Video [Here](https://drive.google.com/file/d/1SfF_ej1I5rWFWNcX7cMNd78H8FNWft8h/view)
 
