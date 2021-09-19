@@ -8,6 +8,8 @@ Watch Demonstration Video [Here](https://drive.google.com/file/d/1SfF_ej1I5rWFWN
 
 <h4>How to Run</h4>
 
+Firstly, add items to MongoDB by following the steps given in STEPS.txt file present in "database" folder.
+
 Navigate to backend folder in your terminal and run the following command to start the server
 
 ```
