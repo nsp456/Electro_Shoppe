@@ -1,4 +1,4 @@
-# FSDL_Project
+# MEAN Stack Project
 
 <h3>Electro Shoppe</h3>
 
@@ -28,4 +28,3 @@ After this, a new tab would open on your default browser which will redirect you
 [![](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)](https://flutter.dev/docs)
 [![](https://img.shields.io/badge/Node-green?style=flat-square&logo=mongodb)](https://flutter.dev/docs)
 [![](https://img.shields.io/badge/Angular-red?style=flat-square&logo=angular)](https://flutter.dev/docs)
-# Electro_Shoppe
